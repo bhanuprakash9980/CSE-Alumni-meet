@@ -118,7 +118,7 @@
     Countdown Clock
     ................................................. */
   function makeTimer() {
-    var endTime = new Date('12 December 2020 18:00:00 GMT+05:30');
+    var endTime = new Date('12 December 2020 19:00:00 GMT+05:30');
     endTime = Date.parse(endTime) / 1000;
 
     var now = new Date();
