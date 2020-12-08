@@ -951,9 +951,9 @@ button:focus {
 .event-inner {
   background: #ffffff;
   text-align: center;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px;
   border: 10px solid #fff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
 }
 
 .event-img {
